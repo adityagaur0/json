@@ -44,7 +44,7 @@
       "rentAmount": 1000,
       "depositAmount": 500,
       "rentRenewalDate": "2024-02-24",
-      "paymentStatus": true
+      "paymentStatus": true,
       // Add more tenant details as needed
     },
     // Add more tenants as needed
